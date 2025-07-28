@@ -2,7 +2,7 @@
 
 **Technical Lead & AI/ML Engineer**
 
-🎓 **UC San Diego '25** - Mathematics-Computer Science  
+🎓 **UC San Diego '25** - Mathematics-Computer Science (B.Sc)
 📍 **San Diego, CA** | 📧 davchezcs@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/davchez)
 
 ---
