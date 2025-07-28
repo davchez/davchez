@@ -24,7 +24,7 @@ I build production AI/ML systems that solve critical real-world problems. From c
 ### 📚 [MathLolaAI - K-12 AI Math Tutor](https://github.com/davchez/mathlolaai)
 **Production-ready EdTech platform built in 2.5 months (2,600+ LOC)**
 
-[📹 Live Demo](https://youtube.com/watch?v=PLACEHOLDER_VIDEO_1) | [🔗 Architecture Overview](PLACEHOLDER_LINK)
+[📹 Live Demo](https://youtube.com/watch?v=PLACEHOLDER_VIDEO_1) 
 
 - Architected dual-LLM system for robust K-12 semantic parsing
 - Handles typos and ambiguous responses ("I tink its siix" → 6) while preventing prompt injection
@@ -38,7 +38,7 @@ I build production AI/ML systems that solve critical real-world problems. From c
 ### 🎯 [Synthetic Acoustic Data Engine](https://github.com/davchez/acoustic-data-engine)
 **Alternative training pipeline for AI gunshot detection**
 
-[📹 Demo Video](https://youtube.com/watch?v=PLACEHOLDER_VIDEO_2) | [📊 Technical Deep Dive](https://youtube.com/watch?v=PLACEHOLDER_VIDEO_3)
+[📹 Demo Video](https://youtube.com/watch?v=PLACEHOLDER_VIDEO_2) 
 
 - Built Python pipeline using FFT-based spectral analysis and room impulse response modeling
 - Created database of 50+ material absorption coefficients for realistic acoustic simulation
@@ -52,7 +52,7 @@ I build production AI/ML systems that solve critical real-world problems. From c
 ### 🤖 [Agentrix - No-Code AI Agent Platform](https://github.com/davchez/agentrix)
 **Y Combinator SP25 Submission**
 
-[📹 Platform Demo](https://youtube.com/watch?v=PLACEHOLDER_VIDEO_4) | [📄 Technical Architecture](PLACEHOLDER_LINK)
+[📹 Platform Demo](https://youtu.be/bbwN0_R44Jo) 
 
 - Co-developed no-code AI agent creation platform targeting CSV workflows and FAQ automation
 - Implemented secure prompt management storing prompts in Supabase and serving via FastAPI
@@ -114,7 +114,7 @@ I build production AI/ML systems that solve critical real-world problems. From c
 
 I'm passionate about applying AI/ML to solve high-impact problems. Whether it's improving public safety, revolutionizing education, or tackling complex technical challenges, I'm always excited to collaborate on meaningful projects.
 
-**[📧 Email](mailto:davchezcs@gmail.com) | [💼 LinkedIn](https://linkedin.com/in/davchez) | [📄 Resume](PLACEHOLDER_RESUME_LINK)**
+**[📧 Email](mailto:davchezcs@gmail.com) | [💼 LinkedIn](https://linkedin.com/in/davchez) | [📄 Resume](https://www.linkedin.com/in/davchez/overlay/1751670199499/single-media-viewer/?profileId=ACoAADQtUrABgbs3OOMG_xTCvcwpVrLOJ2U2tRY)**
 
 ---
 
