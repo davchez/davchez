@@ -7,10 +7,6 @@
 
 ---
 
-## 🚀 Impact-Driven Engineer
-
-I build production AI/ML systems that solve critical real-world problems. From contributing to government security systems to creating accessible education technology, I focus on delivering measurable impact.
-
 ### 🎯 Key Achievements
 - **Led team that contributed to 30% → <10%** false positive reduction for $100M+ government AI program
 - **$18k value delivered for $5k budget** (72% cost reduction) as Technical Lead
@@ -106,18 +102,12 @@ I build production AI/ML systems that solve critical real-world problems. From c
 
 ## 🏆 Currently Working On
 
-- 🔬 Advanced acoustic modeling techniques for enhanced threat detection
-- 🚀 Scaling AI solutions for government security applications
+- 🔬 Advancing EdTech architecture
+- 🚀 Scaling AI solutions in all environments
 - 🏗️ Building robust, production-ready systems with measurable impact
 
 ---
 
 ## 📫 Let's Connect!
 
-I'm passionate about applying AI/ML to solve high-impact problems. Whether it's improving public safety, revolutionizing education, or tackling complex technical challenges, I'm always excited to collaborate on meaningful projects.
-
 **[📧 Email](mailto:davchezcs@gmail.com) | [💼 LinkedIn](https://linkedin.com/in/davchez) | [📄 Resume](https://www.linkedin.com/in/davchez/overlay/1751670199499/single-media-viewer/?profileId=ACoAADQtUrABgbs3OOMG_xTCvcwpVrLOJ2U2tRY)**
-
----
-
-*"The best way to predict the future is to build it."*
