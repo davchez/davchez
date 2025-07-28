@@ -1,6 +1,6 @@
 # Hi, I'm David 👋
 
-**Technical Lead & AI/ML Engineer** | Presented to Members of Congress on AI Safety | Delivered $100M+ Government Solutions
+**Technical Lead & AI/ML Engineer**
 
 🎓 **UC San Diego '25** - Mathematics-Computer Science  
 📍 **San Diego, CA** | 📧 davchezcs@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/davchez)
