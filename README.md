@@ -1,5 +1,6 @@
-## David Sanchez, Mathematics-Computer Science (B.Sc)
-### University of California, San Diego - Class of 2025
+# Hi, I'm David
+### 🎓 University of California, San Diego - Class of 2025
+### 🖥️ Mathematics-Computer Science (B.Sc)
 
 <!--
 **davchez/davchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
