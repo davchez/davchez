@@ -1,4 +1,4 @@
-# Hi, I'm David 👋
+# David Sanchez
 
 **Technical Lead & AI/ML Engineer**
 
