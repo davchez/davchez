@@ -100,6 +100,8 @@ I build production AI/ML systems that solve critical real-world problems. From c
 
 ![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davchez&show_icons=true&theme=dark)
 
+*Note: Stats reflect public repositories only. Nearly all of my production work is in private repos.*
+
 ---
 
 ## 🏆 Currently Working On
