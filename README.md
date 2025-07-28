@@ -2,8 +2,8 @@
 
 **Technical Lead & AI/ML Engineer**
 
-🎓 **UC San Diego '25** - Mathematics-Computer Science (B.Sc)
-📍 **San Diego, CA** | 📧 davchezcs@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/davchez)
+🎓 **UC San Diego '25** - Mathematics-Computer Science (B.Sc)<br>
+📍 **San Diego, CA** | 📧 [davchezcs@gmail.com](mailto:davchezcs@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/davchez)
 
 ---
 
@@ -102,9 +102,9 @@
 
 ## 🏆 Currently Working On
 
-- 🔬 Advancing EdTech architecture
-- 🚀 Scaling AI solutions in all environments
-- 🏗️ Building robust, production-ready systems with measurable impact
+- 🔬 Exploring advanced NLP techniques for educational technology
+- 🚀 Contributing to open-source ML/AI projects
+- 🏗️ Building portfolio of production-ready demonstrations
 
 ---
 
