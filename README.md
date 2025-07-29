@@ -34,8 +34,6 @@
 ### 🎯 [Synthetic Acoustic Data Engine](https://github.com/davchez/acoustic-data-engine)
 **Alternative training pipeline for AI gunshot detection**
 
-[📹 Demo Video](https://youtube.com/watch?v=PLACEHOLDER_VIDEO_2) 
-
 - Built Python pipeline using FFT-based spectral analysis and room impulse response modeling
 - Created database of 50+ material absorption coefficients for realistic acoustic simulation
 - Collected essential gunshot data at Poway Gun Range with Trabus Technologies partnership
