@@ -1,6 +1,6 @@
 # David Sanchez
 
-**Technical Lead & AI/ML Engineer**
+**Former Technical Lead & AI/ML Engineer**
 
 🎓 **New Graduate from UC San Diego (2025)** - Mathematics-Computer Science (B.Sc)<br>
 📍 **San Diego, CA** | 📧 [davchezcs@gmail.com](mailto:davchezcs@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/davchez)
