@@ -1,7 +1,6 @@
 # David Sanchez
-
-**New Graduate from University of California, San Diego**<br>
-**Mathematics-Computer Science BSc, Class of 2025**
+- June 2025 graduate from University of California, San Diego
+- Mathematics-Computer Science (BSc)
 
 ## Former Career Roles
 - Full-Stack Technical Lead, Contract @ MathLolaAI Alcaraz Enterprises (Mar 2025 - Aug 2025)
