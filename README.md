@@ -1,16 +1,19 @@
 <div align = "center">
-  
----
 
-# David Takahashi Sanchez
-##### University of California, San Diego &nbsp; • &nbsp; Mathematics-Computer Science (BSc) &nbsp; • &nbsp; June 2025 New Graduate
-[**LinkedIn**](https://www.linkedin.com/davchez) 
+  # David Takahashi Sanchez
+  ##### University of California, San Diego &nbsp; • &nbsp; Mathematics-Computer Science (BSc) &nbsp; • &nbsp; June 2025 New Graduate
+  [**LinkedIn**](https://www.linkedin.com/davchez) 
 
 </div>
 
----
+&nbsp;
 
-## Former Career Roles
+<div align = "center">
+  
+  ## Former Career Roles
+
+</div>
+
 #### Full Stack Engineer (Mar 2025 — Aug 2025)
 ##### Alcaraz Enterprises, LLC
 > Contracted part-time Full Stack Technical Lead leading 3-person development team on MathLolaAI K-12 AI EdTech app.  Delivered $18,000 of market value under a $5,000 budget
@@ -33,12 +36,16 @@
 ##### Salk Institute for Biological Studies
 > Supervisor: Dr. Sergei Gepshtein
 
----
+&nbsp;
 
-## Projects in Progress
+<div align = "center"> 
+  
+  ## Projects in Progress
 
-### StockForecaster
-##### New development: Oct 2025 — Present
+</div>
+  
+### StockForecaster (Aug 2023 — Present)
+
 Full-stack stock price prediction platform using LSTM neural networks for 20-day forecasting (1-7% MAPE on stable stocks). Features serverless AWS Lambda backend with async request/response architecture, REST API with authentication and rate limiting, and Next.js/TypeScript frontend.
 
 **Stack:** Python, TensorFlow, AWS Lambda/API Gateway/DynamoDB, Docker, Next.js, TypeScript, React  
