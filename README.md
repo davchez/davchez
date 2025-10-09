@@ -16,25 +16,25 @@
 
 #### Full Stack Engineer (Mar 2025 — Aug 2025)
 ##### Alcaraz Enterprises, LLC
-> Contracted part-time Full Stack Technical Lead leading 3-person development team on MathLolaAI K-12 AI EdTech app.  Delivered $18,000 of market value under a $5,000 budget
+> Contracted part-time Full Stack Technical Lead leading 3-person development team on MathLolaAI K-12 AI EdTech app.  Delivered $18,000 of market value under a $5,000 budget.  Performed Agile methodologies to improve workflow.
 
 &nbsp;
 
 #### Software Engineer Intern, AI (May 2024 — Mar 2025)
 ##### Wytec International, Inc
-> Led development of Synthetic Data Engine assisting in $100M false positive AI gunshot detection reduction from 30% to under 10%
+> Led development of Synthetic Data Engine assisting in $100M false positive AI gunshot detection reduction from 30% to under 10%. Presented technical findings to members of Congress and California state politicians.
 
 &nbsp;
 
 #### AI Trainer (Mar 2024 — Mar 2025)
 ##### Outlier (Scale AI)
-> Contract part-time AI trainer working on RLHF, Chain of Thought (CoT), reasoning, and data labeling projects to improve major company LLMs
+> Contract part-time AI trainer working on RLHF, Chain of Thought (CoT), mathematical higher reasoning (proofs), data science, and data labeling projects to improve major company LLMs.  
 
 &nbsp;
 
 #### ML/AI Research Intern (Aug 2020 — May 2021)
 ##### Salk Institute for Biological Studies
-> Supervisor: Dr. Sergei Gepshtein
+> Supervisor: Dr. Sergei Gepshtein.  Worked on recovering data from sparse or unusuable datasets using nonlinear least squares regression analysis.
 
 &nbsp;
 
