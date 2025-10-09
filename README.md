@@ -1,4 +1,4 @@
-# David Sanchez
+# David Takahashi Sanchez
 #### Graduate from University of California, San Diego — GPA 3.461/4.000
 [LinkedIn](https://www.linkedin.com/davchez)
 
@@ -21,10 +21,11 @@
 
 ## Projects in Progress
 
-### StockForecaster (New development: Oct 2025 — Present)
+### StockForecaster
+##### New development: Oct 2025 — Present
 Full-stack stock price prediction platform using LSTM neural networks for 20-day forecasting (1-7% MAPE on stable stocks). Features serverless AWS Lambda backend with async request/response architecture, REST API with authentication and rate limiting, and Next.js/TypeScript frontend.
 
 **Stack:** Python, TensorFlow, AWS Lambda/API Gateway/DynamoDB, Docker, Next.js, TypeScript, React  
 **Highlights:** Async ML inference, VADER sentiment analysis, cold start handling, 4.6GB containerized deployment
 
-[View Project](https://github.com/davchez/stockforecaster)
+[Project Link](https://github.com/davchez/stockforecaster)
