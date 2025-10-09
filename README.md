@@ -1,6 +1,6 @@
 # David Sanchez
-- June 2025 graduate from University of California, San Diego
-- Mathematics-Computer Science (BSc), GPA 3.461/4.000
+#### Graduate from University of California, San Diego — GPA 3.461/4.000
+> [LinkedIn](https://www.linkedin.com/davchez)
 
 ## Former Career Roles
 #### Full Stack Engineer (Mar 2025 — Aug 2025)
