@@ -44,8 +44,9 @@
 
 </div>
   
-### StockForecaster (Aug 2023 — Present)
-
+### StockForecaster (Aug 2023 — Present) 
+##### Author: David Sanchez
+#### Project Description
 > Full-stack stock price prediction platform using LSTM neural networks for 20-day forecasting (1-7% MAPE on stable stocks). Features serverless AWS Lambda backend with async request/response architecture, REST API with authentication and rate limiting, and Next.js/TypeScript frontend.
 
 #### Stack
