@@ -5,11 +5,11 @@
 ## Former Career Roles
 #### Full Stack Engineer (Mar 2025 — Aug 2025)
 ##### Alcaraz Enterprises, LLC
-> Contracted part-time Full Stack Technical leading 3-person development team on MathLolaAI K-12 AI EdTech app.  Delivered $18,000 of market value under a $5,000 budget
+> Contracted part-time Full Stack Technical Lead leading 3-person development team on MathLolaAI K-12 AI EdTech app.  Delivered $18,000 of market value under a $5,000 budget
 
 #### Software Engineer Intern, AI (Mar 2025 — Aug 2025)
 ##### Wytec International, Inc
-> Intern at Wytec International, Inc, leading development of Synthetic Data Engine assisting in $100M false positive AI gunshot detection reduction from 30% to under 10%
+> Led development of Synthetic Data Engine assisting in $100M false positive AI gunshot detection reduction from 30% to under 10%
 
 #### AI Trainer (Mar 2024 — Mar 2025)
 ##### Outlier (Scale AI)
