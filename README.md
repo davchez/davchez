@@ -2,7 +2,7 @@
 
   # David Takahashi Sanchez
   ##### University of California, San Diego &nbsp; • &nbsp; Mathematics-Computer Science (BSc) &nbsp; • &nbsp; June 2025 New Graduate
-  [**LinkedIn**](https://www.linkedin.com/davchez) 
+  [**LinkedIn**](https://www.linkedin.com/davchez) &nbsp; [**Resume**](https://www.linkedin.com/in/davchez/overlay/1759949291243/single-media-viewer/?profileId=ACoAADQtUrABgbs3OOMG_xTCvcwpVrLOJ2U2tRY)
 
 </div>
 
