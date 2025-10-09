@@ -1,23 +1,39 @@
+<div align = "center">
+  
+---
+
 # David Takahashi Sanchez
-#### Graduate from University of California, San Diego — GPA 3.461/4.000
-[LinkedIn](https://www.linkedin.com/davchez)
+##### University of California, San Diego &nbsp; • &nbsp; Mathematics-Computer Science (BSc) &nbsp; • &nbsp; June 2025 New Graduate
+[**LinkedIn**](https://www.linkedin.com/davchez) 
+
+</div>
+
+---
 
 ## Former Career Roles
 #### Full Stack Engineer (Mar 2025 — Aug 2025)
 ##### Alcaraz Enterprises, LLC
 > Contracted part-time Full Stack Technical Lead leading 3-person development team on MathLolaAI K-12 AI EdTech app.  Delivered $18,000 of market value under a $5,000 budget
 
-#### Software Engineer Intern, AI (Mar 2025 — Aug 2025)
+&nbsp;
+
+#### Software Engineer Intern, AI (May 2024 — Mar 2025)
 ##### Wytec International, Inc
 > Led development of Synthetic Data Engine assisting in $100M false positive AI gunshot detection reduction from 30% to under 10%
+
+&nbsp;
 
 #### AI Trainer (Mar 2024 — Mar 2025)
 ##### Outlier (Scale AI)
 > Contract part-time AI trainer working on RLHF, Chain of Thought (CoT), reasoning, and data labeling projects to improve major company LLMs
 
+&nbsp;
+
 #### ML/AI Research Intern (Aug 2020 — May 2021)
 ##### Salk Institute for Biological Studies
 > Supervisor: Dr. Sergei Gepshtein
+
+---
 
 ## Projects in Progress
 
