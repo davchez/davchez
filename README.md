@@ -3,17 +3,21 @@
 - Mathematics-Computer Science (BSc), GPA 3.461/4.000
 
 ## Former Career Roles
-### Full Stack Engineer (Mar 2025 — Aug 2025)
-Contracted part-time Full Stack Technical Lead for Alcaraz Enterprises, MathLolaAI K-12 AI EdTech app
+#### Full Stack Engineer (Mar 2025 — Aug 2025)
+##### Alcaraz Enterprises, LLC
+> Contracted part-time Full Stack Technical leading 3-person development team on MathLolaAI K-12 AI EdTech app.  Delivered $18,000 of market value under a $5,000 budget
 
-### Software Engineer Intern, AI (Mar 2025 — Aug 2025)
-Intern at Wytec International, Inc, leading development of Synthetic Data Engine assisting in $100M false positive AI gunshot detection reduction from 30% to under 10%
+#### Software Engineer Intern, AI (Mar 2025 — Aug 2025)
+##### Wytec International, Inc
+> Intern at Wytec International, Inc, leading development of Synthetic Data Engine assisting in $100M false positive AI gunshot detection reduction from 30% to under 10%
 
-### AI Trainer at Outlier/Scale AI (Mar 2024 — Mar 2025)
-Contract part-time AI trainer working on RLHF, Chain of Thought (CoT), reasoning, and data labeling projects to improve major company LLMs
+#### AI Trainer (Mar 2024 — Mar 2025)
+##### Outlier (Scale AI)
+> Contract part-time AI trainer working on RLHF, Chain of Thought (CoT), reasoning, and data labeling projects to improve major company LLMs
 
-### ML/AI Resaerch Intern at Salk Institute for Biological Studies (Aug 2020 — May 2021)
-Supervisor: Dr. Sergei Gepshtein
+#### ML/AI Research Intern (Aug 2020 — May 2021)
+##### Salk Institute for Biological Studies
+> Supervisor: Dr. Sergei Gepshtein
 
 ## Projects in Progress
 
@@ -24,4 +28,3 @@ Full-stack stock price prediction platform using LSTM neural networks for 20-day
 **Highlights:** Async ML inference, VADER sentiment analysis, cold start handling, 4.6GB containerized deployment
 
 [View Project](https://github.com/davchez/stockforecaster)
-
