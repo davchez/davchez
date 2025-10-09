@@ -46,9 +46,12 @@
   
 ### StockForecaster (Aug 2023 — Present)
 
-Full-stack stock price prediction platform using LSTM neural networks for 20-day forecasting (1-7% MAPE on stable stocks). Features serverless AWS Lambda backend with async request/response architecture, REST API with authentication and rate limiting, and Next.js/TypeScript frontend.
+> Full-stack stock price prediction platform using LSTM neural networks for 20-day forecasting (1-7% MAPE on stable stocks). Features serverless AWS Lambda backend with async request/response architecture, REST API with authentication and rate limiting, and Next.js/TypeScript frontend.
 
-**Stack:** Python, TensorFlow, AWS Lambda/API Gateway/DynamoDB, Docker, Next.js, TypeScript, React  
-**Highlights:** Async ML inference, VADER sentiment analysis, cold start handling, 4.6GB containerized deployment
+#### Stack
+> Python, TensorFlow, AWS Lambda/API Gateway/DynamoDB, Docker, Next.js, TypeScript, React
+
+#### Highlights
+> Async ML inference, VADER sentiment analysis, cold start handling, 4.6GB containerized deployment
 
 [Project Link](https://github.com/davchez/stockforecaster)
