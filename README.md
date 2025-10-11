@@ -19,7 +19,7 @@
 
 ### Full Stack Software Engineer (Mar 2025 — Aug 2025)
 **Alcaraz Enterprises, LLC**
-> Contracted part-time Full Stack Technical Lead leading 3-person development team on MathLolaAI K-12 AI EdTech app.  Delivered $18,000 of market value under a $5,000 budget.  Performed Agile methodologies to improve workflow.
+> Contracted full-time Full Stack Technical Lead leading 3-person development team on MathLolaAI K-12 AI EdTech app.  Delivered $18,000 of market value under a $5,000 budget.  Performed Agile methodologies to improve workflow.
 
 &nbsp;
 
