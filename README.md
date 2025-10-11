@@ -47,17 +47,24 @@
 
 </div>
 
-### [StockForecaster](https://github.com/davchez/stockforecaster) (Aug 2023 — Present) 
-**Author: David Sanchez**
+### 📈 [StockForecaster](https://github.com/davchez/stockforecaster) (Aug 2023 — Present) 
 
-#### Project Description
+**Project Description**
 > Full-stack stock price prediction platform using LSTM neural networks for 20 trading-day (1 calendar month) forecasting. Features serverless AWS Lambda backend with async request/response architecture, REST API with authentication and rate limiting, and Next.js/TypeScript frontend.
 
-#### Stack
+**Technical Stack**
 > Python, TensorFlow, AWS Lambda/API Gateway/DynamoDB, Docker, Next.js, TypeScript, React
 
-#### Highlights
+**Highlights**
 > Async ML inference, VADER sentiment analysis, cold start handling, 4.6GB containerized deployment
 
-#### Live Demo (Vercel Deployment — October 10, 2025)
+**Live Demo (Vercel Deployment — October 10, 2025)**
 > [Link](https://stockforecaster-tau.vercel.app/)
+
+&nbsp;
+
+<div align = "center">
+
+  ## Backlog Projects
+  
+</div>
