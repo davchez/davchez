@@ -37,7 +37,7 @@
 
 ### ML/AI Research Intern (Aug 2020 — May 2021)
 **[Salk Institute for Biological Studies](https://www.salk.edu/)**
-> Supervisor: Dr. Sergei Gepshtein.  Worked on recovering data from sparse or unusuable datasets using nonlinear least squares regression analysis.
+> Supervisor: Dr. Sergei Gepshtein.  Worked on recovering data from sparse or unusable datasets using nonlinear least squares regression analysis.
 
 &nbsp;
 
