@@ -43,7 +43,7 @@
 
 <div align = "center"> 
   
-  ## Projects in Progress
+  ## Technical Projects
 
 </div>
 
