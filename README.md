@@ -60,11 +60,3 @@
 
 **Live Demo (Vercel Deployment — October 10, 2025)**
 > [Link](https://stockforecaster-tau.vercel.app/)
-
-&nbsp;
-
-<div align = "center">
-
-  ## Backlog Projects
-  
-</div>
