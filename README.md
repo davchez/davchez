@@ -24,7 +24,7 @@
 &nbsp;
 
 ### Software Engineer Intern, AI (May 2024 — Mar 2025)
-**Wytec International, Inc**
+**[Wytec International, Inc](https://wytecintl.ai/)**
 > Led development of Synthetic Data Engine assisting in $100M false positive AI gunshot detection reduction from 30% to under 10%. Presented technical findings to members of Congress and California state politicians.
 
 &nbsp;
