@@ -47,7 +47,7 @@
 
 </div>
 
-### StockForecaster (Aug 2023 — Present) 
+### [StockForecaster](https://github.com/davchez/stockforecaster) (Aug 2023 — Present) 
 **Author: David Sanchez**
 
 #### Project Description
@@ -59,4 +59,5 @@
 #### Highlights
 > Async ML inference, VADER sentiment analysis, cold start handling, 4.6GB containerized deployment
 
-[Project Link](https://github.com/davchez/stockforecaster)
+#### Live Demo (Vercel Deployment — October 10, 2025)
+> [Link](https://stockforecaster-tau.vercel.app/)
