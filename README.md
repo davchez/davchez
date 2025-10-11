@@ -30,13 +30,13 @@
 &nbsp;
 
 ### AI Trainer (Mar 2024 — Mar 2025)
-**Outlier (Scale AI)**
+**[Outlier (Scale AI)](https://outlier.ai/)**
 > Contract part-time AI trainer working on RLHF, Chain of Thought (CoT), mathematical higher reasoning (proofs), data science, and data labeling projects to improve major company LLMs.  
 
 &nbsp;
 
 ### ML/AI Research Intern (Aug 2020 — May 2021)
-**Salk Institute for Biological Studies**
+**[Salk Institute for Biological Studies](https://www.salk.edu/)**
 > Supervisor: Dr. Sergei Gepshtein.  Worked on recovering data from sparse or unusuable datasets using nonlinear least squares regression analysis.
 
 &nbsp;
