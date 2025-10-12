@@ -63,7 +63,9 @@
 
 &nbsp;
 
-##### Other Open-Source Projects
-[Habitizer](https://github.com/davchez/habitizer)
-[SmartMealPlanner](https://github.com/josephw23/smartmealplanner)
-[SystemHandler](https://github.com/davchez/systemhandler)
+### Other Open-Source Projects
+- **[Habitizer](https://github.com/davchez/habitizer)**
+
+- **[SmartMealPlanner](https://github.com/josephw23/smartmealplanner)**
+
+- **[SystemHandler](https://github.com/davchez/systemhandler)**
