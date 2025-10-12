@@ -43,7 +43,7 @@
 
 <div align = "center"> 
   
-  ## Open-Source Projects
+  ## Featured Open-Source Project
 
 </div>
 
@@ -58,7 +58,7 @@
 **Highlights**
 > Async ML inference, VADER sentiment analysis, cold start handling, 4.6GB containerized deployment
 
-**Live Demo (Vercel Deployment — October 10, 2025)**
+**Live Demo Deployment**
 > [Link](https://stockforecaster-tau.vercel.app/)
 
 &nbsp;
