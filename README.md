@@ -43,7 +43,7 @@
 
 <div align = "center"> 
   
-  ## Technical Projects
+  ## Open-Source Projects
 
 </div>
 
@@ -60,3 +60,10 @@
 
 **Live Demo (Vercel Deployment — October 10, 2025)**
 > [Link](https://stockforecaster-tau.vercel.app/)
+
+&nbsp;
+
+##### Other Open-Source Projects
+[Habitizer](https://github.com/davchez/habitizer)
+[SmartMealPlanner](https://github.com/josephw23/smartmealplanner)
+[SystemHandler](https://github.com/davchez/systemhandler)
