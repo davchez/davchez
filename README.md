@@ -1,7 +1,7 @@
 <div align = "center">
 
   # David Sanchez
-  **University of California, San Diego &nbsp; • &nbsp; Mathematics-Computer Science (BSc) &nbsp; • &nbsp; New Graduate**
+  **University of California, San Diego &nbsp; • &nbsp; Mathematics-Computer Science (BSc) &nbsp; • &nbsp; Incoming SWE @ Google**
   
   <div style="height: 1rem;"></div>
   
