@@ -17,7 +17,7 @@
 
 </div>
 
-### Incoming L3 Software Engineer - Google OneFleet
+### Incoming L3 Software Engineer
 **Google San Francisco**
 > Signed offer beginning in March.
 
