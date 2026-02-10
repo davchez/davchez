@@ -12,6 +12,18 @@
 &nbsp;
 
 <div align = "center">
+
+  ## Current Role
+
+</div>
+
+### Incoming L3 Software Engineer - Google OneFleet
+**Google San Francisco**
+> Signed offer beginning in March.
+
+&nbsp;
+
+<div align = "center">
   
   ## Former Career Roles
 
