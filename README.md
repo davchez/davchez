@@ -18,7 +18,7 @@
 </div>
 
 ### Incoming L3 Software Engineer
-**Google San Francisco**
+**Google — San Francisco**
 > Signed offer beginning in March.
 
 &nbsp;
