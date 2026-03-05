@@ -1,7 +1,7 @@
 <div align = "center">
 
   # David Sanchez
-  **University of California, San Diego &nbsp; • &nbsp; Mathematics-Computer Science (BSc) &nbsp; • &nbsp; Incoming Software Engineer @google**
+  **University of California, San Diego &nbsp; • &nbsp; Mathematics-Computer Science (BSc) &nbsp; • &nbsp; Software Engineer @google**
   
   <div style="height: 1rem;"></div>
   
@@ -17,9 +17,9 @@
 
 </div>
 
-### Incoming L3 Software Engineer
+### Software Engineer
 **Google**
-> Signed offer beginning in March.
+> Central Fleet team under Google Cloud.
 
 &nbsp;
 
