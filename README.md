@@ -59,7 +59,7 @@
 
 </div>
 
-### 📈 [StockForecaster](https://github.com/davchez/stockforecaster) (Aug 2023 — Present) 
+### 📈 [StockForecaster](https://github.com/davchez/stockforecaster) (Aug 2023 — Feb 2026) 
 
 **Project Description**
 > Full-stack stock price prediction platform using LSTM neural networks for 20 trading-day (1 calendar month) forecasting. Features serverless AWS Lambda backend with async request/response architecture, REST API with authentication and rate limiting, and Next.js/TypeScript frontend.
