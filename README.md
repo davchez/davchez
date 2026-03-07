@@ -1,7 +1,7 @@
 <div align = "center">
 
   # David Sanchez
-  **Software Engineer @Google &nbsp; • &nbsp; Mathematics-Computer Science (BSc) &nbsp; • &nbsp; University of California, San Diego**
+  **Software Engineer @google &nbsp; • &nbsp; Mathematics-Computer Science (BSc) &nbsp; • &nbsp; University of California, San Diego**
   
   <div style="height: 1rem;"></div>
   
