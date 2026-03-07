@@ -18,7 +18,7 @@
 </div>
 
 ### Software Engineer (Mar 2026 — Present)
-**Google**
+**[Google](https://google.com)**
 > Central Fleet team under Google Cloud.
 
 &nbsp;
